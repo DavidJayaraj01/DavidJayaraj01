@@ -7,7 +7,7 @@
 <h3 align="center">🚀 AI & Data Science Professional | Full Stack Developer | ML Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Klassy01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DavidJayaraj01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
