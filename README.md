@@ -7,7 +7,7 @@
 <h3 align="center">🚀 AI & Data Science Professional | Full Stack Developer | ML Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Klassy01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DavidJayaraj01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -95,15 +95,15 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ## 🚀 Featured Projects
 
-### 🎯 AI Call Intelligence Platform
-🔗 https://github.com/Klassy01/AI-Calling-Intelligence  
+### 🎯 AI Call Intelligence Platform  
+🔗 https://github.com/DavidJayaraj01/AI-Calling-Intelligence  
 
 - Speech-to-text & NLP-based analytics  
 - Sentiment & pain-point extraction  
 - Real-time dashboards  
 
-### 🏭 AI-Smarter-Shop (Industrial IoT Safety)
-🔗 https://github.com/Klassy01/AI-Safety-Shop  
+### 🏭 AI-Smarter-Shop (Industrial IoT Safety)  
+🔗 https://github.com/DavidJayaraj01/AI-Safety-Shop  
 
 - YOLOv8-based PPE detection  
 - IoT sensors with real-time alerts  
@@ -114,11 +114,11 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 ## 📊 GitHub Stats (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klassy01&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klassy01&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Klassy01&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 <p align="center">
   <a href="https://davidjayaraj.tech"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/davidjayaraja01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Klassy01"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/DavidJayaraj01"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github"/></a>
   <a href="mailto:davidjayaraj101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
   <a href="https://wa.me/919840488355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/></a>
 </p>
@@ -152,5 +152,5 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 </p>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/Klassy01">David Jayaraj A</a></i>
+  <i>⭐ From <a href="https://github.com/DavidJayaraj01">David Jayaraj A</a></i>
 </p>
