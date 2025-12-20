@@ -7,7 +7,7 @@
 <h3 align="center">🚀 AI & Data Science Professional | Full Stack Developer | ML Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidJayaraj01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DavidJayaraj01&label=Profile%20Views&style=flat" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ---
 
-## 📊 GitHub Stats (WORKING ✅)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -123,8 +123,7 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ---
 
-## 🏆 GitHub Trophies (WORKING ✅)
-
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
