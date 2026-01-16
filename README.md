@@ -1,4 +1,4 @@
-<img width="2030" height="1419" alt="image" src="https://github.com/user-attachments/assets/7eac6ad9-37b7-4fe9-a220-75040f785dc4" /><!-- Animated Typing Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Professional;Full+Stack+Developer;Machine+Learning+Engineer;Building+Intelligent+Solutions" alt="Typing SVG" />
 </p>
@@ -97,39 +97,25 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ### 🎯 AI Call Intelligence Platform  
 🔗 https://github.com/DavidJayaraj01/AI-Calling-Intelligence  
-
 - Speech-to-text & NLP-based analytics  
 - Sentiment & pain-point extraction  
 - Real-time dashboards  
 
 ### 🏭 AI-Smarter-Shop (Industrial IoT Safety)  
 🔗 https://github.com/DavidJayaraj01/AI-Safety-Shop  
-
 - YOLOv8-based PPE detection  
 - IoT sensors with real-time alerts  
 - Analytics dashboard  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidJayaraj01&theme=radical)
-
----
 ## 📊 GitHub Analytics Dashboard
 
 ![GitHub Metrics](https://metrics.lecoq.io/DavidJayaraj01?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.indepth=true&languages.details=bytes-size&activity=1&isocalendar=1&achievements=1&config.timezone=Asia/Kolkata)
 
----
-
 ## 📈 Contribution Activity Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidJayaraj01&theme=react-dark&hide_border=true)
-
 
 ---
 
