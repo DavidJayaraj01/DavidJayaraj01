@@ -135,16 +135,15 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=darkhub&no-frame=true"
+    alt="GitHub Trophies"
+  />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
