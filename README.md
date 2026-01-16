@@ -117,15 +117,13 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=radical)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidJayaraj01&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=radical&no-frame=true&margin-w=15)
-
-
 
 ---
 
