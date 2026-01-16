@@ -109,30 +109,51 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Stats
 
-![GitHub Metrics](https://metrics.lecoq.io/DavidJayaraj01?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.indepth=true&languages.details=bytes-size&activity=1&isocalendar=1&achievements=1&config.timezone=Asia/Kolkata)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidJayaraj01&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 📈 Contribution Activity Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidJayaraj01&theme=react-dark&hide_border=true)
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidJayaraj01&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=darkhub&no-frame=true&margin-w=15)
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://davidjayaraj.tech"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/davidjayaraja01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/DavidJayaraj01"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:davidjayaraj101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://wa.me/919840488355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/></a>
+  <a href="https://davidjayaraj.tech"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/davidjayaraja01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/DavidJayaraj01"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:davidjayaraj01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/919840488355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
