@@ -113,31 +113,18 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavidJayaraj01&show_icons=true&theme=radical)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidJayaraj01&layout=compact&theme=radical)
+
 
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=radical&no-frame=true&row=1&column=6&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidJayaraj01&theme=radical&no-frame=true&margin-w=15)
+
 
 
 ---
