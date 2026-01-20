@@ -21,7 +21,7 @@ I specialize in building **AI-powered solutions**, **scalable full-stack applica
 - 🌱 Exploring **LLMs**, **RAG**, and **Model Context Protocol (MCP)**
 - 💡 Passionate about **Computer Vision**, **NLP**, and **Predictive Analytics**
 - 💻 Building with **FastAPI**, **React**, **TypeScript**, and **Python**
-- 📊 Expert in **Data Analytics**, **Power BI**, and **ML Pipelines**
+- 🧩 Experienced in **model training**, **evaluation**, and **production deployment**
 - 🤝 Open to **collaborations**
 - 📫 Reach me at **davidjayaraj01@gmail.com**
 - 🌐 Portfolio: **https://davidjayaraj.tech**
