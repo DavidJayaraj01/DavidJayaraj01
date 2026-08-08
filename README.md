@@ -175,7 +175,7 @@ Industrial IoT safety system with YOLOv8-based PPE detection, real-time IoT sens
 <tr>
 <td valign="top" width="50%">
 
-<img src="./assets/metrics-card.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/DavidJayaraj01/DavidJayaraj01/main/assets/metrics-card.svg" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
@@ -188,7 +188,7 @@ Industrial IoT safety system with YOLOv8-based PPE detection, real-time IoT sens
 
 <div align="center">
 
-<img src="./assets/languages-card.svg" height="200"/>
+<img src="https://raw.githubusercontent.com/DavidJayaraj01/DavidJayaraj01/main/assets/languages-card.svg" height="200"/>
 
 <br/><br/>
 
