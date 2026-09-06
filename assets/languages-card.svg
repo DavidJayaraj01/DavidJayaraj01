@@ -2,18 +2,18 @@
   <rect x="1" y="1" width="378" height="196" rx="10" fill="#0a0f14" stroke="#5fd8e0" stroke-opacity="0.35"/>
   <text x="24" y="34" font-size="16" font-weight="bold" fill="#5fd8e0" font-family="Fira Code, monospace">Most Used Languages</text>
   <rect x="24" y="60" width="332" height="10" rx="2" fill="#1a1f26"/>
-  <rect x="24" y="60" width="110.65559999999999" height="10" rx="2" fill="#3572A5"/><rect x="134.6556" y="60" width="94.8524" height="10" rx="2" fill="#3178C6"/><rect x="229.50799999999998" y="60" width="63.246" height="10" rx="2" fill="#F1E05A"/><rect x="292.75399999999996" y="60" width="15.803199999999999" height="10" rx="2" fill="#563D7C"/><rect x="308.55719999999997" y="60" width="15.803199999999999" height="10" rx="2" fill="#8899a6"/><rect x="324.36039999999997" y="60" width="15.803199999999999" height="10" rx="2" fill="#E34C26"/>
+  <rect x="24" y="60" width="105.6424" height="10" rx="2" fill="#3178C6"/><rect x="129.6424" y="60" width="105.6424" height="10" rx="2" fill="#3572A5"/><rect x="235.28480000000002" y="60" width="60.3576" height="10" rx="2" fill="#F1E05A"/><rect x="295.6424" y="60" width="15.106" height="10" rx="2" fill="#563D7C"/><rect x="310.7484" y="60" width="15.106" height="10" rx="2" fill="#8899a6"/><rect x="325.8544" y="60" width="15.106" height="10" rx="2" fill="#E34C26"/>
   
-    <circle cx="24" cy="96" r="5" fill="#3572A5"/>
-    <text x="38" y="100" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">Python 33.33%</text>
-    <circle cx="204" cy="96" r="5" fill="#3178C6"/>
-    <text x="218" y="100" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">TypeScript 28.57%</text>
+    <circle cx="24" cy="96" r="5" fill="#3178C6"/>
+    <text x="38" y="100" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">TypeScript 31.82%</text>
+    <circle cx="204" cy="96" r="5" fill="#3572A5"/>
+    <text x="218" y="100" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">Python 31.82%</text>
     <circle cx="24" cy="122" r="5" fill="#F1E05A"/>
-    <text x="38" y="126" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">JavaScript 19.05%</text>
+    <text x="38" y="126" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">JavaScript 18.18%</text>
     <circle cx="204" cy="122" r="5" fill="#563D7C"/>
-    <text x="218" y="126" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">CSS 4.76%</text>
+    <text x="218" y="126" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">CSS 4.55%</text>
     <circle cx="24" cy="148" r="5" fill="#8899a6"/>
-    <text x="38" y="152" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">Shell 4.76%</text>
+    <text x="38" y="152" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">Shell 4.55%</text>
     <circle cx="204" cy="148" r="5" fill="#E34C26"/>
-    <text x="218" y="152" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">HTML 4.76%</text>
+    <text x="218" y="152" font-size="13" fill="#e8f4f5" font-family="Fira Code, monospace">HTML 4.55%</text>
 </svg>
